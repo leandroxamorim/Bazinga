@@ -42,6 +42,15 @@ namespace Bazinga_
             Coup CoupPlayer = ReturnCoupPlayer(Convert.ToInt32(bt.Tag));
             Coup CoupSheldon = ReturnCoupSheldon();
             Scoreboard Scoreboard = ReturnWinner(CoupPlayer, CoupSheldon);
+
+            if (Scoreboard == Scoreboard.VictorySheldon)
+            {
+                LbScoreSheldon.Text = (int.Parse(LbScoreSheldon.Text) + 1).ToString();
+            }
+            else if (Scoreboard == Scoreboard.VictoryPlayer)
+            {
+                LbScorePlayer.Text = (int.Parse(LbScorePlayer.Text) + 1).ToString();
+            }
         }
         private Scoreboard ReturnWinner(Coup Player, Coup Sheldon)
         {
