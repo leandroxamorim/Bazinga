@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\Bazinga!\bin\Debug\Bazinga!.exe.config
+C:\Users\Administrador\Documents\Bazinga!\bin\Debug\Bazinga!.exe
+C:\Users\Administrador\Documents\Bazinga!\bin\Debug\Bazinga!.pdb
+C:\Users\Administrador\Documents\Bazinga!\obj\Debug\Bazinga!.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Bazinga!\obj\Debug\Bazinga_.Form1.resources
+C:\Users\Administrador\Documents\Bazinga!\obj\Debug\Bazinga_.Properties.Resources.resources
+C:\Users\Administrador\Documents\Bazinga!\obj\Debug\Bazinga!.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\Bazinga!\obj\Debug\Bazinga!.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Bazinga!\obj\Debug\Bazinga!.exe
+C:\Users\Administrador\Documents\Bazinga!\obj\Debug\Bazinga!.pdb
